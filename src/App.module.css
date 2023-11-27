@@ -11,7 +11,8 @@
 }
 
 body {
-  background-color: white;
+  background-color: black;
+  color: white;
   font-family: 'Noto Sans Syloti Nagri', sans-serif;
   margin: 0;
   
